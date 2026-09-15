@@ -6,3 +6,6 @@ This project is for Git practice.
 
 ## Project Information
 This project is created for practicing Git and GitHub.
+
+## Project Information
+This project is created for practicing Git and GitHub.
