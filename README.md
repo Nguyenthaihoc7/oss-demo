@@ -9,3 +9,9 @@ This project is created for practicing Git and GitHub.
 
 ## Project Information
 This project is created for practicing Git and GitHub.
+
+## Installation
+Run the project using Git.
+
+## Git Practice
+This repository demonstrates basic Git workflow.
